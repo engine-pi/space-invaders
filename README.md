@@ -17,3 +17,5 @@ git clone https://github.com/cbeust/space-invade.rs.git
 apt-get install libsdl2-dev
 cargo run
 ```
+
+https://www.ibbotson.co.uk/software/invaders/2020/12/22/space-invaders-charactermaps.html
