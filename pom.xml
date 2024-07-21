@@ -31,6 +31,7 @@
       <plugin>
         <groupId>net.revelc.code.formatter</groupId>
         <artifactId>formatter-maven-plugin</artifactId>
+        <version>2.24.1</version>
         <executions>
           <execution>
             <goals>
@@ -45,6 +46,7 @@
           <dependency>
             <groupId>de.pirckheimer-gymnasium</groupId>
             <artifactId>engine-pi</artifactId>
+            <version>0.26.0</version>
           </dependency>
         </dependencies>
       </plugin>
